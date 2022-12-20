@@ -1,0 +1,20 @@
+ Función con tres parámetros que sean números que se suman entre sí y sus valores 
+ public static void main (String[] args) {
+int param1 = 24;   // 4 byts
+int param2 = 36;   // 4 byts
+int param3 = 48;   // 4 byts
+sum(param1, param2, param3)
+System.out.println(a); 
+
+
+
+
+Segunda parte:
+
+clase coche con numero de puertas asignado
+Coche
+Propiedades
+Color: azul 
+num Puertas: 4
+
+
